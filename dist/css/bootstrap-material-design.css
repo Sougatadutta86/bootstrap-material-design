@@ -2264,7 +2264,6 @@ legend {
   padding-top: 20px;
   padding-bottom: 20px;
 }
-.navbar .navbar-nav > li > a:hover,
 .navbar .navbar-nav > li > a:focus {
   color: inherit;
   background-color: transparent;
